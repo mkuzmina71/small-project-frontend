@@ -131,7 +131,7 @@ if (!window.Intl) {
 } else {
   render(translationMessages);
 }
-//random-key-tests:W57KSO9U9tszW5qRpe7mdVd3DFFG547X8eQkOihvJ9WPhecVyeoqYSNA0f34BsTGAXzCWB7UxPY3KievbjhqNZqEuBlL7eJ22MvCz2nKV9HK8aenbm9LYhxT4hjeXDTl
+//random-key-tests:qMoYTqcdeh41rsnlXOfIXLCXQS7dZgxPY5qeHVaEjKi2E+b3WktZnUOV7YGPqI1xydg7mNnMTxS2rwb++MNlgyyoC/FVlcIBCXY7mAcs45OxqCULL0GqlKWR/KSEpFP4m2Vqd6zViDDMY5fX358uVQ==
 // Install ServiceWorker and AppCache in the end since
 // it's not most important operation and if main code fails,
 // we do not want it installed
