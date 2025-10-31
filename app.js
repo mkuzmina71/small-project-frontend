@@ -131,7 +131,7 @@ if (!window.Intl) {
 } else {
   render(translationMessages);
 }
-//random-key-tests:qMoYTqcdeh41rsnlXOfIXLCXQS7dZgxPY5qeHVaEjKi2E+b3WktZnUOV7YGPqI1xydg7mNnMTxS2rwb++MNlgyyoC/FVlcIBCXY7mAcs45OxqCULL0GqlKWR/KSEpFP4m2Vqd6zViDDMY5fX358uVQ==
+//TODO
 // Install ServiceWorker and AppCache in the end since
 // it's not most important operation and if main code fails,
 // we do not want it installed
